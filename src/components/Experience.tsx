@@ -24,7 +24,7 @@ const experiences = [
     title: 'Associate Systems Engineer',
     company: 'TCS',
     location: 'Kolkata, West Bengal, India',
-    period: 'May 2019 – Jan 2025',
+    period: 'May 2019 – Aug 2023',
     achievements: [
       'Engineered and sustained SAP Billing support, enhancements, and reporting for ENMAX (Canada based utility client), reducing incident resolution times by 25% across 6 cross-functional teams.',
       'Optimized SAP ABAP enhancements in an Agile, test-driven setting, elevating system uptime by 15% while delivering tailored solutions within the SAP ISU module.',
